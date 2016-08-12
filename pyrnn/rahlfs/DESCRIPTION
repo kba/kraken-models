@@ -2,6 +2,9 @@
 "summary": "A classifier for polytonic Greek for Rahlfs texts",
 "author": "Bruce Robertson",
 "author-email": "brobertson@mta.ca",
-"license": "None",
-"name": "rahlfs-2014-05-26-19-05-00100000.pyrnn.pronn"
+"license": "CC0",
+"url": "http://heml.mta.ca/rigaudon/",
+"modified": "2015-10-20T12:26:00Z",
+"name": "rahlfs-2014-05-26-19-05-00100000.pyrnn.pronn",
+"files": ["rahlfs-2014-05-26-19-05-00100000.pyrnn.pronn"]
 }

@@ -2,6 +2,9 @@
 "summary": "A classifier for polytonic Greek typeset using Porson",
 "author": "Bruce Robertson",
 "author-email": "brobertson@mta.ca",
-"license": "None",
-"name": "porson-2013-10-23-16-14-00100000.pyrnn.pronn"
+"license": "CC0",
+"url": "http://heml.mta.ca/rigaudon/",
+"modified": "2015-10-20T12:26:00Z",
+"name": "porson-2013-10-23-16-14-00100000.pyrnn.pronn",
+"files": ["porson-2013-10-23-16-14-00100000.pyrnn.pronn"]
 }

@@ -2,6 +2,9 @@
 "summary": "An attempt at an universal classifier for polytonic Greek",
 "author": "Bruce Robertson",
 "author-email": "brobertson@mta.ca",
-"license": "None",
-"name": "omnibus-2014-05-31-10-16-00087000.pyrnn.pronn"
+"license": "CC0",
+"url": "http://heml.mta.ca/rigaudon/",
+"modified": "2015-10-20T12:26:00Z",
+"name": "omnibus-2014-05-31-10-16-00087000.pyrnn.pronn",
+"files": ["omnibus-2014-05-31-10-16-00087000.pyrnn.pronn"]
 }

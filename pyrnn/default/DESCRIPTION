@@ -1,7 +1,10 @@
 {
 "summary": "A converted version of en-default.pyrnn.gz",
-"author": "unknown",
-"author-email": "unknown",
+"author": "Tom Breuel",
+"author-email": "tmbdev@gmail.com",
 "license": "Apache 2.0",
-"name": "en-default.pronn"
+"name": "en-default.pronn",
+"files": ["en-default.pronn"],
+"modified": "2015-10-20T12:26:00Z",
+"url": "http://www.tmbdev.net/ocropy/"
 }

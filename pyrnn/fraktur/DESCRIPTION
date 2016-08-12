@@ -1,7 +1,10 @@
 {
 "summary": "A converted version of fraktur.pyrnn.gz",
-"author": "unknown",
-"author-email": "unknown",
+"author": "Tom Breuel",
+"author-email": "tmbdev@gmail.com",
 "license": "Apache 2.0",
-"name": "fraktur.pronn"
+"name": "fraktur.pronn",
+"files": ["fraktur.pronn"],
+"modified": "2015-10-20T12:26:00Z",
+"url": "http://www.tmbdev.net/ocropy/"
 }

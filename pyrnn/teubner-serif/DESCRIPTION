@@ -2,6 +2,9 @@
 "summary": "A classifier for polytonic Greek for serif Teubner types",
 "author": "Bruce Robertson",
 "author-email": "brobertson@mta.ca",
-"license": "None",
-"name": "teubner-serif-2013-12-16-11-26-00067000.pyrnn.pronn"
+"license": "CC0",
+"url": "http://heml.mta.ca/rigaudon/",
+"modified": "2015-10-20T12:26:00Z",
+"name": "teubner-serif-2013-12-16-11-26-00067000.pyrnn.pronn",
+"files": ["teubner-serif-2013-12-16-11-26-00067000.pyrnn.pronn"]
 }

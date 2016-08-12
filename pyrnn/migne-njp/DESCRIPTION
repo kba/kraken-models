@@ -1,7 +1,10 @@
 {
-"summary": "A converted version of en-default.pyrnn.gz",
-"author": "unknown",
-"author-email": "unknown",
-"license": "Apache 2.0",
-"name": "en-default.pronn"
+"summary": "A classifier for polytonic Greek for Migne texts (njp?)",
+"author": "Bruce Robertson",
+"author-email": "brobertson@mta.ca",
+"license": "CC0",
+"url": "http://heml.mta.ca/rigaudon/",
+"modified": "2015-10-20T12:26:00Z",
+"name": "migne-njp-2014-09-03-08-28-00072100.pyrnn.pronn",
+"files": ["migne-njp-2014-09-03-08-28-00072100.pyrnn.pronn"]
 }

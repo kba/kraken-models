@@ -2,6 +2,10 @@
 "summary": "A classifier for polytonic Greek for Migne texts",
 "author": "Bruce Robertson",
 "author-email": "brobertson@mta.ca",
-"license": "None",
-"name": "migne-2014-06-30-15-16-00100000.pyrnn.pronn"
+"license": "CC0",
+"url": "http://heml.mta.ca/rigaudon/",
+"modified": "2014-06-30T15:16:00Z",
+"name": "migne-2014-06-30-15-16-00100000.pyrnn.pronn",
+"files": ["migne-2014-06-30-15-16-00100000.pyrnn.pronn"]
 }
+

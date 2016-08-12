@@ -2,6 +2,9 @@
 "summary": "A polytonic Greek classifiers for non-teubner serif fonts",
 "author": "Bruce Robertson",
 "author-email": "brobertson@mta.ca",
-"license": "none",
-"name": "non-teubner-german-serif-2014-05-27-14-11-00071000.pyrnn.pronn"
+"license": "CC0",
+"url": "http://heml.mta.ca/rigaudon/",
+"modified": "2015-10-20T12:26:00Z",
+"name": "non-teubner-german-serif-2014-05-27-14-11-00071000.pyrnn.pronn",
+"files": ["non-teubner-german-serif-2014-05-27-14-11-00071000.pyrnn.pronn"]
 }

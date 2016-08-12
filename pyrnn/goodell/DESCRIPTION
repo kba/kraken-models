@@ -2,6 +2,9 @@
 "summary": "A classifier for polytonic Greek for Goodell fonts",
 "author": "Bruce Robertson",
 "author-email": "brobertson@mta.ca",
-"license": "None",
-"name": "goodell-2014-04-05-09-56-00150000.pyrnn.pronn"
+"license": "CC0",
+"modified": "2014-04-05T09:56:00Z",
+"url": "http://heml.mta.ca/rigaudon/",
+"name": "goodell-2014-04-05-09-56-00150000.pyrnn.pronn",
+"files": ["goodell-2014-04-05-09-56-00150000.pyrnn.pronn"]
 }
